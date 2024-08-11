@@ -1,17 +1,31 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "",
+  "description": "api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edgarromero1994/api.git"
+  },
+  "keywords": [
+    "edukuk",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Edgar",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/edgarromero1994/api.git"
+  },
+  "homepage": "https://github.com/edgarromero1994/api.git",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.1"
+    "json-server": "^0.17.3"
   }
 }
+
