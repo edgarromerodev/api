@@ -6,7 +6,9 @@
             "categoria": "Hombres",
              "descripcion":"Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_vzwU6T5xfW2AgPUZ-KQwpjjMuBiXdnIgZy8Mv77OubNsQHlEceasiCVtFhcMscxA7gEKPnC-gNqf1Rtay4hGGx6aW6l4OPctK-CZv7cnHR_pW13DOxs-FV1ETGpDl-X50k-dE9ZjtunBpxmnig7S7iGi4V3WuxMsLdBWACaUClb9dSB6u0w4pgPG9cae/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2852%29.png",
-             "precio" : 150
+             "precio" : 150,
+             "tipo" : "Calzado"
+           
         },
 
         {
@@ -23,7 +25,8 @@
             "categoria": "Mujeres",
              "descripcion":"Calzado para dama marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEHY3zcfqzao3tQUVwipSQsB-1ywQSb7gv0FHZcfZD2DQm6YgdmiSxHrOXSjymO4-tUN3Scql1eVThXzHfW4-7wzvW5TgIgJ2UNE7N2AwtxSWhldTZI4x64bX-OpVtJrwB9Bi4w8PHNwZ1Xe1LEtSvdnbrDVERU_EH64Sd3vnOuoWMLzWYOY2O_dAee_dE/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2848%29.png",
-             "precio" : 75
+             "precio" : 75,
+             "tipo" : "Calzado"
         },
         {
             "id":4,
@@ -56,7 +59,8 @@
             "categoria": "Hombres",
              "descripcion":"Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBE_ZjW9oFieF7OQNLB7_d86iEDtnZIlBCgJsD-qB-AOAg5iAa65tXpc6ZL0dnKP-HZw_948EiCe56dM7OB08HBogRdGvpxxKat6ITg4lmP7td3NePBed2T17fTcBTowOefqYMfQnLsEEfIajMYmbt5rERhPAA87FGBvZgz-kwGSiyfS8vKruo9haDZAR/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2846%29.png",
-             "precio" : 150
+             "precio" : 150,
+             "tipo" : "Calzado"
         },
         {
             "id":8,
@@ -64,7 +68,8 @@
             "categoria": "Hombres",
              "descripcion":"Chumpa ligera de poliéster, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtxvAbJ_zCqMW1jd0_EgppXfTVOr3JVvGHY9OAj9vosV-o8_ZMCO8TygB3oow4JKy8F0f0zW-7JPVsDyapVk3Nla34oL0DII52eYuVLf_Q_Y8CFsukWsE145sC8M5f4saEsIfLXkK9_al7V_MPIIUbKN16I_KTuwgDePIFp9RH-TOtr46MYLQSWWnAlyEw/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2845%29.png",
-             "precio" : 35
+             "precio" : 35,
+            "tipo" : "Prendas de abrigo"
         },
         {
             "id":9,
@@ -72,7 +77,8 @@
             "categoria": "Mujeres",
              "descripcion":"Chumpa ligera de poliéster, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvNBiDJHTIvtEXwX5UJtkRsjiuWaLtBIrJH8zh2YYU7xD3ChDUynn-9oE30VO-PtsXkMS8uKLH0avwanQgyPuUMd-E48FA_nNs9exY-kgzFfujUdJjc-aOt8xg89nAawUVX0b_wsktcKFY9zWhVrTE3PunkfzVjSyVqGEp6Fs_JitnHxKF1kqDm_vKcCE/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2842%29.png",
-             "precio" : 25
+             "precio" : 25,
+             "tipo" : "Prendas de abrigo"
         },
         {
             "id":10,
@@ -80,7 +86,8 @@
             "categoria": "Mujeres",
              "descripcion":"Calzado para dama marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrHFrovJOta5iDcxfqNHO45Dl2jvJ1Y5gIo7xMTnpNoD7zC1FHgmbNUXa7qitDYlfgNecJLh7Rsv666CaKF7OdGHn_BtAJINNboJQG-H6XLJHcSJChO4GYD6xEv-C-oQwnu2yV-NyP3SAMhAg_HBhh8Gc_OxjC-5gwMtLxYdCIvYsQNYmzk7jLSgf38Z5e/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2843%29.png",
-             "precio" : 75
+             "precio" : 75,
+             "tipo" : "Calzado"
         },
         {
             "id":11,
@@ -96,7 +103,8 @@
             "categoria": "Hombres",
              "descripcion":"Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8mIaylSO6U2GJlltmQBPp2neWITnXQv73amqIpa6_OhiHR0gpxNpnPwx5Mu6uAx7Ag8EISuTQWDyHKUbOBbqYxbbqTTnvNereEQHh7GRRSGkWJUO_HDMBwoLtzW9liZ6IzrXpaWvt1X-UaCX8_pP6pGCZpchIVTp58SpAEgaEN6UzFFVMCET90D5jEqfj/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2840%29.png",
-             "precio" : 35
+             "precio" : 35,
+             "tipo" : "Calzado"
         },
         {
             "id":13,
@@ -112,7 +120,8 @@
             "categoria": "Hombres",
              "descripcion":"Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfNmLjwZ73xK1HbZ_WkGDbhSHHtIS7hxkzqaQ8FzCSc2o7V_Os3rzxXpGiEvqQk0yCqGEvmY8k0Xm_qrZNms0gfHNaG6cBaXG88sZs6ZWVWQjlFqF8gUaE39p1M92jU0VXYSWhoKv8Dvleq4ZBQn5oZPXEkZkKuDU20mseClAb3OlRrcTTKBAt1FlpFS0P/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2838%29.png",
-             "precio" : 38
+             "precio" : 38,
+             "tipo" : "Prendas de abrigo"
         },
         {
             "id":16,
@@ -128,7 +137,8 @@
             "categoria": "Niños",
              "descripcion":"Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt8SSkumPauxGhYdmIptirtHNY4u8s04z3WlX6iKqdHGVDK0F7Q2ckgtjSKcA4LaHXDAZAIVAAqdZcaaw5NtJDO9YgQLg_YTLV2z0OFweEFqNdviZfQC1FOOTbe_Mu3iW_HEzX5OTY3lkg4bmrjvnL75vt1poH5rq4LpUY0WNPvoLsZLoere5D2CG-kyrF/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2836%29.png",
-             "precio" : 30
+             "precio" : 30,
+              "tipo" : "Prendas de abrigo"
         },
         {
             "id":18,
@@ -136,7 +146,8 @@
             "categoria": "Niños",
              "descripcion":"Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSbIVNs08p0U15X6GWYjoamuQUk4Eyi3dClbV2OjnASpkLsm5QGK1HqNKUPZCy2kUM7fFOXyLzqbljhofDB0zo8MH0h7aBhFm5ZXSE6z11opWebAxoEJJ-TUtqUuv00TWKN_bn-r27VdoPp0AZmX3pcfl8e5tKhUjVKV4SogKPkmlIV96nDodVeWMDYmuH/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2835%29.png",
-             "precio" : 30
+             "precio" : 30,
+            "tipo" : "Prendas de abrigo"
         },
 
         {
@@ -153,7 +164,8 @@
             "categoria": "Hombres",
              "descripcion":"Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaY72qKPZquyJzdKxD6-Hem9KOhGpuDMkRXvfMZbbIJY3pAsUiIUVvTPOYwOAMzPeJkSci1dsfnqrpSK9Bs1li6rYXExBE6CJpUC31o47upxAv0WF2-t3Jc8-mxQRD1fck4LCgJm7kYlpBKTkQKfqQcHdU2qWg-W7hlQXvPy_1RobUYJNRvzWE2MmT6HJr/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2833%29.png",
-             "precio" : 40
+             "precio" : 40,
+            "tipo" : "Prendas de abrigo"
         },
         {
             "id":21,
@@ -193,7 +205,8 @@
             "categoria": "Mujeres",
              "descripcion":"Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUfuGpkp72fCFJPGSoUX9H7JTbpD-hVtBtBAHJAEnWbd4nN77L3Rn9q953RrBm3e0WNAfim5rxksZr7KPtsCJPn8_ZacOnvJSzmBYA8SUJsgT2eCy6R40wKxjDbKcnKE5xvmuIfdbSaX6Hr9OkUgXEuOB8rP_QCUN_aIK3nrfuAc7h7jsQpPfQ0scD4L1c/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2828%29.png",
-             "precio" : 40
+             "precio" : 40,
+            "tipo" : "Prendas de abrigo"
         },
         {
             "id":26,
@@ -201,7 +214,8 @@
             "categoria": "Mujeres",
              "descripcion":"Calzado para dama marca Lugo Conti de uso casual en color rosa. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVxgzQsbkGK89K2KAdaINOfA5dFv1cJd57abW_4k8acr7w-nTMHQsxGjktAxyeA6_0AedEY2cwYYySpeSlTHjFHGM7RDB7eYSmCMul-tYDumP3v8wU30JMbkZ68eaDJ_XZCuWMvpNJNQn3V12LjsfB4_qjJRuSkI-3uKBVMm9isNfKg0lqoRg7fj-GeJS/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2827%29.png",
-             "precio" : 25
+             "precio" : 25,
+             "tipo" : "Calzado"
         },
         {
             "id":27,
@@ -235,7 +249,8 @@
             "categoria": "Mujeres",
              "descripcion":"Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
              "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlaZaWYONRl7uAQK-0USqM5k1o1ocGIucKk92ovABIPntvWr_tFOqicA-zxXa76kXRH_eICNyDcFCVPpK4cngGnuUKkRALWPM-6d9CpCY8p0UKWvfTdalLVPXOLIdBcWEN7aKKl42hubg8Y41g2iIUux5kwOz_25jbZISzkcidkuRCKIwpBzOtzsNnd1U-/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2822%29.png",
-             "precio" : 38
+             "precio" : 38,
+            "tipo" : "Prendas de abrigo"
         }
 
     ]
