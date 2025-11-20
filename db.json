@@ -1,16 +1,14 @@
 {
     "products": [
         {
-            "id":1,
-            "nombre":"Calzado caballero tipo tenis",
-            "categoria": "Hombres",
-             "descripcion":"Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
-             "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_vzwU6T5xfW2AgPUZ-KQwpjjMuBiXdnIgZy8Mv77OubNsQHlEceasiCVtFhcMscxA7gEKPnC-gNqf1Rtay4hGGx6aW6l4OPctK-CZv7cnHR_pW13DOxs-FV1ETGpDl-X50k-dE9ZjtunBpxmnig7S7iGi4V3WuxMsLdBWACaUClb9dSB6u0w4pgPG9cae/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2852%29.png",
-             "precio" : 150,
-             "tipo" : "Calzado"
-           
+        "id":1,
+        "nombre":"Calzado caballero tipo tenis",
+        "categoria": "Hombres",
+         "descripcion":"Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
+         "image" :"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_vzwU6T5xfW2AgPUZ-KQwpjjMuBiXdnIgZy8Mv77OubNsQHlEceasiCVtFhcMscxA7gEKPnC-gNqf1Rtay4hGGx6aW6l4OPctK-CZv7cnHR_pW13DOxs-FV1ETGpDl-X50k-dE9ZjtunBpxmnig7S7iGi4V3WuxMsLdBWACaUClb9dSB6u0w4pgPG9cae/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%2852%29.png",
+        "precio" : 150,
+        "tipo" : "Calzado" 
         },
-
         {
             "id":2,
             "nombre":"Camisa para niños con manga larga",
